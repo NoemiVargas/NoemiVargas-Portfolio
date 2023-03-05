@@ -395,7 +395,6 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
     position: absolute;
     width: 0;
     height: 100%;
-    /* background: linear-gradient(90.21deg, #1027cb -5.91%, #5c5383 111.58%); */
     background: #1b2732;
     top: 0;
     left: 0;

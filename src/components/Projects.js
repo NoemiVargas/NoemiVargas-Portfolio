@@ -31,7 +31,7 @@ export const Projects = () => {
       imgUrl: projImg2,
     },
     {
-      title:<a href="https://www.linkedin.com/in/noemi-vargas-a32751253" target="_blank">"Business" </a>,
+      title:<a>"Business" </a>,
       description: "Design & Development",
       imgUrl: projImg3,
     },
@@ -46,7 +46,7 @@ export const Projects = () => {
       imgUrl: projImg5,
     },
     {
-      title:<a href="" target="_blank">"Business Startup"</a>,
+      title:<a>"Business Startup"</a>,
       description: "Design & Development",
       imgUrl: projImg6,
     },

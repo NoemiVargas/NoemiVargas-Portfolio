@@ -20,13 +20,13 @@ export const Projects = () => {
 
   const projects = [
     {
-      title: <a href="https://classy-hotteok-52ccd4.netlify.app" target="_blank">"Business" </a>,
+      title: "Business",
       description:"Design & Development" ,
       imgUrl: projImg1,
      
     },
     {
-      title:  <a href="https://aquamarine-madeleine-9f04a6.netlify.app" target="_blank">"Business" </a>,
+      title:"Business",
       description: "Design & Development",
       imgUrl: projImg2,
     },
@@ -36,17 +36,17 @@ export const Projects = () => {
       imgUrl: projImg3,
     },
     {
-      title: <a href="https://effervescent-sherbet-c1606c.netlify.app/" target="_blank">"Blog" </a>,
+      title: "Blog",
       description: "Design & Development",
       imgUrl: projImg4,
     },
     {
-      title: <a href="https://joyful-pasca-fa9159.netlify.app" target="_blank">"Education" </a>,
+      title: "Education",
       description: "Design & Development",
       imgUrl: projImg5,
     },
     {
-      title:<a>"Business Startup"</a>,
+      title:"Business Startup",
       description: "Design & Development",
       imgUrl: projImg6,
     },

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/NoemiVargas-Portfolio/static/css/main.085ac72b.css",
-    "main.js": "/NoemiVargas-Portfolio/static/js/main.00a1dc4e.js",
+    "main.js": "/NoemiVargas-Portfolio/static/js/main.fdf36267.js",
     "static/js/787.a9cadf70.chunk.js": "/NoemiVargas-Portfolio/static/js/787.a9cadf70.chunk.js",
     "static/media/project2.png": "/NoemiVargas-Portfolio/static/media/project2.fee3fb3ff2068814a019.png",
     "static/media/project4.png": "/NoemiVargas-Portfolio/static/media/project4.247c766343d7d4ecd11c.png",
@@ -9,9 +9,9 @@
     "static/media/project3.png": "/NoemiVargas-Portfolio/static/media/project3.dd8d13f743eefb0bc036.png",
     "static/media/project1.png": "/NoemiVargas-Portfolio/static/media/project1.1d5966de3e56693faf37.png",
     "static/media/project5.png": "/NoemiVargas-Portfolio/static/media/project5.f70dca98e51f8efb74bc.png",
+    "static/media/CV_NOEMI_VARGAS.pdf": "/NoemiVargas-Portfolio/static/media/CV_NOEMI_VARGAS.ce6bca53268a7e76de8a.pdf",
     "static/media/Bannner1.jpg": "/NoemiVargas-Portfolio/static/media/Bannner1.7a6e44315db275676459.jpg",
     "static/media/oLuna.png": "/NoemiVargas-Portfolio/static/media/oLuna.a152f9168ee74b3541d5.png",
-    "static/media/CV_NoemiVargas.pdf": "/NoemiVargas-Portfolio/static/media/CV_NoemiVargas.76b22a7bc5006065c6c4.pdf",
     "static/media/CentraNo2-Bold.ttf": "/NoemiVargas-Portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/NoemiVargas-Portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/NoemiVargas-Portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
@@ -29,11 +29,11 @@
     "static/media/nav-icon1.svg": "/NoemiVargas-Portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/NoemiVargas-Portfolio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.085ac72b.css.map": "/NoemiVargas-Portfolio/static/css/main.085ac72b.css.map",
-    "main.00a1dc4e.js.map": "/NoemiVargas-Portfolio/static/js/main.00a1dc4e.js.map",
+    "main.fdf36267.js.map": "/NoemiVargas-Portfolio/static/js/main.fdf36267.js.map",
     "787.a9cadf70.chunk.js.map": "/NoemiVargas-Portfolio/static/js/787.a9cadf70.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.085ac72b.css",
-    "static/js/main.00a1dc4e.js"
+    "static/js/main.fdf36267.js"
   ]
 }

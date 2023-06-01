@@ -20,28 +20,28 @@ export const Projects = () => {
 
   const projects = [
     {
-      title: "Business",
+      title: <a href="https://classy-hotteok-52ccd4.netlify.app" target="_blank">"Business" </a>,
       description:"Design & Development" ,
       imgUrl: projImg1,
      
     },
     {
-      title:"Business",
+      title:  <a href="https://aquamarine-madeleine-9f04a6.netlify.app" target="_blank">"Business" </a>,
       description: "Design & Development",
       imgUrl: projImg2,
     },
     {
-      title:"Business" ,
+      title:  <a href="https://6477ed662754a81b31e490f0--friendly-marshmallow-593458.netlify.app/" target="_blank">"Business" </a>,
       description: "Design & Development",
       imgUrl: projImg3,
     },
     {
-      title: "Blog",
+      title: <a href="https://effervescent-sherbet-c1606c.netlify.app/" target="_blank">"Blog" </a>,
       description: "Design & Development",
       imgUrl: projImg4,
     },
     {
-      title: "Education",
+      title: <a href="https://joyful-pasca-fa9159.netlify.app" target="_blank">"Education" </a>,
       description: "Design & Development",
       imgUrl: projImg5,
     },

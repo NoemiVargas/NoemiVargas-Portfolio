@@ -9,7 +9,7 @@ import navIcon5 from '../assets/img/nav-icon2.svg'
 
 
 //pdf cv
-import Documento from '../CV_NoemiVargas.pdf'
+import Documento from '../CV_NOEMI_VARGAS.pdf'
 
 
 export const NavBar = () => {
